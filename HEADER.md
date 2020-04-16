@@ -21,3 +21,4 @@ NSS is a system I worked on during my time at American Fidelity. NSS is the name
 - 22 Recommendation from former supervisors and colleagues.
 - Over 120 skill endorsements across a broad spectrum of technologies.
 - [Link to my profile on LinkedIn](https://www.linkedin.com/in/brandonvicedomini/)
+- [Link to my Resume](https://github.com/brandonvio/brandonvio/blob/master/documents/BrandonVicedomini-Resume.pdf)
