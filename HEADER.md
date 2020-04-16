@@ -2,10 +2,10 @@
 
 ## Portfolio Projects
 
-- [trackerp.xyz](#trackerp)
-- [fuzzle.xyz](#fuzzlexyz)
-- [reallo.xyz](#realloxyz)
-- [rythm.cc](#rythmcc)
+- [trackerp.xyz](#trackerp) | a purchase tracking app | serverless | iac | hosted on AWS
+- [fuzzle.xyz](#fuzzlexyz) | a blogging app | docker, ecs, mongodb | hosted on AWS
+- [reallo.xyz](#realloxyz) | A real estate application | lambda, graphql, rds | Hosted on AWS
+- [rythm.cc](#rythmcc) | a fintech tool | hosted on Kubernetes on Azure (AKS)
 
 ## NSS Overview
 
