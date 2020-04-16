@@ -2,7 +2,10 @@
 
 ## Portfolio Projects
 
+- [trackerp.xyz](#trackerp)
+- [fuzzle.xyz](#fuzzlexyz)
 - [reallo.xyz](#realloxyz)
+- [rythm.cc](#rythmcc)
 # trackerp
 
 [github repo](https://github.com/brandonvio/trackerp)
