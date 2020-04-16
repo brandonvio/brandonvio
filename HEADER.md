@@ -22,7 +22,7 @@ NSS is a system I worked on during my time at American Fidelity. NSS is the name
 
 ## Lonza MAST
 
-Lonza is a freelance client I have been working with. Part of my work with the MAST team at Lonza has been to implement devops processes for the MAST Client Service application. As such I built out an Azure DevOps pipeline for the application for continuous integration. I've also implemented code coverage reporting and have begun the processing of increasing the code coverage for the application. [Screenshots of the pipeline](https://github.com/brandonvio/brandonvio/tree/master/documents/lonza).
+Lonza is a freelance client I have been working with. Part of my work with the MAST team at Lonza has been to implement devops processes for the MAST Client Service application. As such I built out an Azure DevOps pipeline for the application for continuous integration. I've also implemented code coverage reporting and have begun the process of increasing the code coverage for the application. [Screenshots of the pipeline](https://github.com/brandonvio/brandonvio/tree/master/documents/lonza).
 
 # Portfolio Projects
 
