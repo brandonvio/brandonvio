@@ -3,7 +3,6 @@
 ## Portfolio Projects
 
 - [reallo.xyz](#realloxyz)
-
 # trackerp
 
 [github repo](https://github.com/brandonvio/trackerp)
@@ -47,7 +46,6 @@ Access the running application here:
 ![Alt text](https://raw.githubusercontent.com/brandonvio/purchase-tracker-ioc/master/docs/image13.png "Workstation screenshot...")
 
 ![Alt text](https://raw.githubusercontent.com/brandonvio/purchase-tracker-ioc/master/docs/image14.png "Workstation screenshot...")
-
 # fuzzle.xyz
 
 Lightweight blogging. Built with care on AWS and MongoDB.
@@ -88,7 +86,6 @@ Access the running application here:
 ![Architecture](https://raw.githubusercontent.com/brandonvio/fuzzle-app/master/public/images/screenshot06.png)
 
 ![Architecture](https://raw.githubusercontent.com/brandonvio/fuzzle-app/master/public/images/screenshot07.png)
-
 # reallo.xyz
 
 This is the repository for a reallo.xyz. A estate application I built to use as a portfolio project and showcase proficiency as a AWS Solutions Architect and Fullstack Software Engineer.
@@ -148,7 +145,6 @@ username/password = reallo/reallo
 ![Architecture](https://raw.githubusercontent.com/brandonvio/reallo-app/master/public/images/screenshot10.png)
 
 ![Architecture](https://raw.githubusercontent.com/brandonvio/reallo-app/master/public/images/screenshot11.png)
-
 ## [rythm.cc](http://app.rythm.cc)
 
 Forex, Crypto and Stock application. Running on a Kubernetes cluster in Azure. API integrations with [Oanda](https://www.oanda.com/us-en/), [IEX Cloud](https://iexcloud.io/) and [TradingView](https://www.tradingview.com/).

@@ -9,6 +9,9 @@ readmes = [
 
 readme_string = ""
 
+with open('HEADER.md', 'r') as header:
+    readme_string = header.read()
+
 for url in readmes:
     f = requests.get(url)
     readme_string += f.content.decode("utf-8")
