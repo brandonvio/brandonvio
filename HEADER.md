@@ -13,12 +13,10 @@ NSS is a system I worked on during my time at American Fidelity. NSS is the name
 
 [NSS Overview Document](https://github.com/brandonvio/brandonvio/blob/master/documents/NSS-Overview.pdf)
 
-<!-- ## Certifications
+## LinkedIn Profile Highlights
 
-### AWS
-
-### Microsoft
-
-### Udemy
-
-### Linux Academy -->
+- 3 AWS Certfications
+- 1 Udemy and 3 Linux Academy Certifications for Course Completion
+- 3 Microsoft Certifcations (expired)
+- 22 Recommendation from former supervisors and colleagues.
+- Over 120 skill endorsements across a broad spectrum of technologies.
