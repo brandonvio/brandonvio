@@ -22,3 +22,7 @@ NSS is a system I worked on during my time at American Fidelity. NSS is the name
 - Over 120 skill endorsements across a broad spectrum of technologies.
 - [Link to my LinkedIn profile](https://www.linkedin.com/in/brandonvicedomini/)
 - [Link to my resume](https://github.com/brandonvio/brandonvio/blob/master/documents/BrandonVicedomini-Resume.pdf)
+
+# Portfolio Projects
+
+These are projects I've worked on for about the last 6 months. Some of these projects started out as coding challenges and were built out into a full functioning application. Rythm.cc started out as an idea to do machine learning using financial data and turned into a Jenkins/Kubernetes exercise. Each project is using CI/CD and is hosted in live environment on AWS or Azure.
