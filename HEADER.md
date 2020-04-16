@@ -18,7 +18,7 @@ NSS is a system I worked on during my time at American Fidelity. NSS is the name
 
 ## Lonza MAST
 
-Lonza is a freelance client I have been working with. Part of my work with the MAST team at Lonza has been to implement some devops processes for the MAST Client Service application.
+Lonza is a freelance client I have been working with. Part of my work with the MAST team at Lonza has been to implement devops processes for the MAST Client Service application. As such I built out an Azure DevOps pipeline for the application for continuous integration. I've also implemented code coverage reporting and have begun the processing of increasing the code coverage for the application. [Screenshots of the pipeline](https://github.com/brandonvio/brandonvio/tree/master/documents/lonza).
 
 # Portfolio Projects
 
@@ -26,5 +26,5 @@ These are projects I've worked on for about the last 6 months. Some of these pro
 
 - [trackerp.xyz](#trackerp) | a purchase tracking app | serverless | iac | hosted on AWS
 - [fuzzle.xyz](#fuzzlexyz) | a blogging app | docker, ecs, mongodb | hosted on AWS
-- [reallo.xyz](#realloxyz) | A real estate application | lambda, graphql, rds | Hosted on AWS
+- [reallo.xyz](#realloxyz) | a real estate application | lambda, graphql, rds | Hosted on AWS
 - [rythm.cc](#rythmcc) | a fintech tool | hosted on Kubernetes on Azure (AKS)
