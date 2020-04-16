@@ -13,7 +13,7 @@ NSS is a system I worked on during my time at American Fidelity. NSS is the name
 
 The document also includes screenshots from my Instagram for more context as me as person.
 
-[NSS Overview Document](https://raw.githubusercontent.com/brandonvio/brandonvio/master/documents/NSS-Overview.pdf)
+[NSS Overview Document](https://github.com/brandonvio/brandonvio/blob/master/documents/NSS-Overview.pdf)
 
 <!-- ## Certifications
 
