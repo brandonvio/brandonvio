@@ -22,11 +22,6 @@ NSS is a system I worked on during my time at American Fidelity. NSS is the name
 ### Udemy
 
 ### Linux Academy -->
-
-- [trackerp.xyz](#trackerp)
-- [fuzzle.xyz](#fuzzlexyz)
-- [reallo.xyz](#realloxyz)
-- [rythm.cc](#rythmcc)
 # trackerp
 
 [github repo](https://github.com/brandonvio/trackerp)
