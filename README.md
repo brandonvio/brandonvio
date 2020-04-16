@@ -1,18 +1,5 @@
 # brandonv.io
 
-## Portfolio Projects
-
-- [trackerp.xyz](#trackerp) | a purchase tracking app | serverless | iac | hosted on AWS
-- [fuzzle.xyz](#fuzzlexyz) | a blogging app | docker, ecs, mongodb | hosted on AWS
-- [reallo.xyz](#realloxyz) | A real estate application | lambda, graphql, rds | Hosted on AWS
-- [rythm.cc](#rythmcc) | a fintech tool | hosted on Kubernetes on Azure (AKS)
-
-## NSS Overview
-
-NSS is a system I worked on during my time at American Fidelity. NSS is the name of the integration systems for a larger product called FFSolutions. NSS processed hundreds of files every day, each file containing thousands of policy records. A robust ETL process esued for each record. The following document contains screenshots of the application. All of the screens and processes I personally designed, developed and supported.
-
-[NSS Overview Document](https://github.com/brandonvio/brandonvio/blob/master/documents/NSS-Overview.pdf)
-
 ## LinkedIn Profile Highlights
 
 - 3 AWS Certfications
@@ -23,9 +10,20 @@ NSS is a system I worked on during my time at American Fidelity. NSS is the name
 - [Link to my LinkedIn profile](https://www.linkedin.com/in/brandonvicedomini/)
 - [Link to my resume](https://github.com/brandonvio/brandonvio/blob/master/documents/BrandonVicedomini-Resume.pdf)
 
+## NSS Overview
+
+NSS is a system I worked on during my time at American Fidelity. NSS is the name of the integration systems for a larger product called FFSolutions. NSS processed hundreds of files every day, each file containing thousands of policy records. A robust ETL process esued for each record. The following document contains screenshots of the application. All of the screens and processes I personally designed, developed and supported.
+
+[NSS Overview Document](https://github.com/brandonvio/brandonvio/blob/master/documents/NSS-Overview.pdf)
+
 # Portfolio Projects
 
 These are projects I've worked on for about the last 6 months. Some of these projects started out as coding challenges and were built out into a full functioning application. Rythm.cc started out as an idea to do machine learning using financial data and turned into a Jenkins/Kubernetes exercise. Each project is using CI/CD and is hosted in live environment on AWS or Azure.
+
+- [trackerp.xyz](#trackerp) | a purchase tracking app | serverless | iac | hosted on AWS
+- [fuzzle.xyz](#fuzzlexyz) | a blogging app | docker, ecs, mongodb | hosted on AWS
+- [reallo.xyz](#realloxyz) | A real estate application | lambda, graphql, rds | Hosted on AWS
+- [rythm.cc](#rythmcc) | a fintech tool | hosted on Kubernetes on Azure (AKS)
 # trackerp
 
 [github repo](https://github.com/brandonvio/trackerp)
