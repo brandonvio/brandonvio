@@ -20,3 +20,4 @@ NSS is a system I worked on during my time at American Fidelity. NSS is the name
 - 3 Microsoft Certifcations (expired)
 - 22 Recommendation from former supervisors and colleagues.
 - Over 120 skill endorsements across a broad spectrum of technologies.
+- [Link to my profile on LinkedIn](https://www.linkedin.com/in/brandonvicedomini/)
