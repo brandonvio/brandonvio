@@ -1,5 +1,7 @@
 # brandonv.io
 
+Greetings. My career experience so far has been mostly fullstack software engineering. However, throughout my career I've been involved in many other aspects of system delivery. My first tech job was with **Arcadia Software** who built the software that ran Qzar at the time being the largest lazer tag franchise in the country. Part of my role was to configure the system for new lazer tag centers which included installing the OS and the respective software for all 5 computers that ran the center. This included networking the computers and validating connectivity and operations. Another highlight is building out and migrating all operational servers to a Hyper-V cluster for **Sgt Grit Marine Specialities** on top of a large Dell SAN for high availability.
+
 ## LinkedIn Profile Highlights
 
 - 3 AWS Certfications
