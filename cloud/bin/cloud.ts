@@ -16,7 +16,7 @@ new CloudStack(app, 'CloudStack', {
     /* Uncomment the next line if you know exactly what Account and Region you
      * want to deploy the stack to. */
     env: {
-        account: '123356',
+        account: process.env.AWS_TARGET_ACCOUNT,
         region: process.env.AWS_REGION,
     },
 
