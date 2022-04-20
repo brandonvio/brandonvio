@@ -40,4 +40,4 @@ jobs:
           cd cloud
           npm install
           cdk synth
-          cdk diff
+          # cdk diff
