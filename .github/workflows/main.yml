@@ -36,7 +36,7 @@ jobs:
           echo test, and deploy your project.
 
       - name: Change folder
-      - run: cd cloud
+        run: cd cloud
 
       - name: cdk diff
         uses: youyo/aws-cdk-github-actions@v2
