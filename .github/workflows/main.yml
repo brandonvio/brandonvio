@@ -30,14 +30,20 @@ jobs:
           npm install -g aws-cdk@latest
           cdk --version
 
-      - name: Change folder and Deploy via CDK
-        env:
-          AWS_REGION: ${{ secrets.AWS_REGION }}
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_TARGET_ACCOUNT: ${{ secrets.AWS_TARGET_ACCOUNT }}
+      - name: Change folder and Install
         run: |
           cd cloud
           npm install
           cdk synth
           # cdk diff
+
+      - name: CDK Synth
+        run: |
+          cdk --version
+          cdk synth
+
+# env:
+#           AWS_REGION: ${{ secrets.AWS_REGION }}
+#           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+#           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+#           AWS_TARGET_ACCOUNT: ${{ secrets.AWS_TARGET_ACCOUNT }}
