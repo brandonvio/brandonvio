@@ -34,11 +34,11 @@ jobs:
         run: |
           cd cloud
           npm install
-          cdk synth
-          # cdk diff
 
       - name: CDK Synth
         run: |
+          pwd
+          cd cloud
           cdk --version
           cdk synth
 
