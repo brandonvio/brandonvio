@@ -35,15 +35,13 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 
-      - name: Change folder
-        run: cd cloud
+      - name: Install CDK and Gatsby
+        run: |
+          npm install -g aws-cdk@latest
+          cdk --version
 
-      - name: cdk diff
-        uses: youyo/aws-cdk-github-actions@v2
-        with:
-          cdk_subcommand: "diff"
-          actions_comment: true
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION: "us-west-2"
+      - name: Change folder
+        run: |
+          cd cloud
+          npm install
+          cdk synth
