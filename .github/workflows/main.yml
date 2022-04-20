@@ -35,15 +35,19 @@ jobs:
           cd cloud
           npm install
 
-      - name: CDK Synth
+      - name: CDK synth
         run: |
           pwd
           cd cloud
-          cdk --version
           cdk synth
 
-# env:
-#           AWS_REGION: ${{ secrets.AWS_REGION }}
-#           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-#           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-#           AWS_TARGET_ACCOUNT: ${{ secrets.AWS_TARGET_ACCOUNT }}
+      - name: CDK diff
+        run: |
+          pwd
+          cd cloud
+          cdk diff
+        env:
+          AWS_REGION: ${{ secrets.AWS_REGION }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_TARGET_ACCOUNT: ${{ secrets.AWS_TARGET_ACCOUNT }}
